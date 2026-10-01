@@ -52,3 +52,8 @@ Ing. Mária Mrazová
 
 Projekt je vytvorený ako školská antistresová aktivita.
 Kód je písaný jednoducho, aby ho mohli žiaci ďalej upravovať a rozširovať.
+
+## Materiály pre žiakov
+
+- `POSTUP_PRE_ZIAKOV.md` - metodický postup, ako projekt vznikal krok za krokom
+- `PROMPTY_PRE_ZIAKOV.md` - návrhy promptov, pomocou ktorých môžu žiaci skladať projekt s podporou AI
